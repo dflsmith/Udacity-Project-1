@@ -4,7 +4,7 @@
 import media
 import fresh_tomatoes
 
-# define the movie information
+#movie information
 matrix = media.Movie("Matrix", "R",
                      "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",  # noqa
                      "A computer hacker learns from mysterious "

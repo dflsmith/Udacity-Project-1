@@ -3,14 +3,14 @@
 import webbrowser
 
 
-# define video class
+#video class
 class Video():
     def __init__(self, title, duration):
         self.title = title
         self.duration = duration
 
 
-# define movie class
+#movie class
 class Movie(Video):
     VALID_RATINGS = ["G", "PG", "PG-13", "R"]
 
